@@ -8,7 +8,7 @@ Age: 20 years old
 
 Gender: Male
 
-Favorite Color: Green
+Favorite Color: [Green](https://en.wikipedia.org/wiki/Green)
 
 Address: 40/64 ถ.พหลโยธิน ซ.คลองหลวง8(8/4) ต.คลองหนึ่ง อ.คลองหลวง จ.ปทุมธานี 12120
 
