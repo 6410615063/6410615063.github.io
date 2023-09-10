@@ -1,6 +1,6 @@
 # Thanakorn Thongyoi
 
-![Profile picture](https://github.com/6410615063/6410615063.github.io/blob/main/picture.jpg)
+![Profile picture](https://github.com/6410615063/6410615063.github.io/blob/main/picture_small.png)
 
 Nickname: Net
 
