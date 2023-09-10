@@ -1,5 +1,7 @@
 # Thanakorn Thongyoi
 
+![Profile picture](https://github.com/6410615063/6410615063.github.io/blob/main/picture.jpg)
+
 Nickname: Net
 
 Age: 20 years old
